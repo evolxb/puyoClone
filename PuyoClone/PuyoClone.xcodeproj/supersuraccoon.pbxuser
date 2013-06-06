@@ -1,0 +1,133 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* PuyoCloneAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 1144}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 443}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* PuyoClone */ = {
+		activeExec = 0;
+		executables = (
+			A39C56B0143F537D00512DDA /* PuyoClone */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A39C56B0143F537D00512DDA /* PuyoClone */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PuyoClone */;
+		codeSenseManager = A39C56BD143F538F00512DDA /* Code sense */;
+		executables = (
+			A39C56B0143F537D00512DDA /* PuyoClone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 339694461;
+			PBXWorkspaceStateSaveDate = 339694461;
+		};
+		perUserProjectItems = {
+			A39C56B4143F538F00512DDA /* PBXTextBookmark */ = A39C56B4143F538F00512DDA /* PBXTextBookmark */;
+			A39C56B5143F538F00512DDA /* PBXBookmark */ = A39C56B5143F538F00512DDA /* PBXBookmark */;
+			A39C56C3143F545400512DDA /* PBXTextBookmark */ = A39C56C3143F545400512DDA /* PBXTextBookmark */;
+		};
+		sourceControlManager = A39C56BC143F538F00512DDA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9DDC46820FB4DA740067BED6 /* GameScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 416}}";
+			sepNavSelRange = "{51, 10}";
+			sepNavVisRange = "{0, 191}";
+		};
+	};
+	A39C56B0143F537D00512DDA /* PuyoClone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PuyoClone;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A39C56B4143F538F00512DDA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* PuyoCloneAppDelegate.m */;
+		name = "PuyoCloneAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 443;
+		vrLoc = 0;
+	};
+	A39C56B5143F538F00512DDA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 9DDC46820FB4DA740067BED6 /* GameScene.h */;
+	};
+	A39C56BC143F538F00512DDA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A39C56BD143F538F00512DDA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A39C56C3143F545400512DDA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9DDC46820FB4DA740067BED6 /* GameScene.h */;
+		name = "GameScene.h: 5";
+		rLen = 10;
+		rLoc = 51;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+}
